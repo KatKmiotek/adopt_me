@@ -1,6 +1,6 @@
-import React from 'react';
-import Pet from './components/Pet'
-import './App.css';
+import React from "react";
+import Pet from "./components/Pet";
+import "./App.css";
 
 function App() {
   return (
